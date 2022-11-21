@@ -15,3 +15,7 @@
 [memory & image captioning.pptx](https://github.com/yeonju7kim/Presentation/files/9957493/memory.image.captioning.pptx)
 
 [Fair Generative Modeling via weak supervision (4).pptx](https://github.com/yeonju7kim/Presentation/files/9957495/Fair.Generative.Modeling.via.weak.supervision.4.pptx)
+
+[Causal Image Captioning.pptx](https://github.com/yeonju7kim/Presentation/files/10052504/Causal.Image.Captioning.pptx)
+
+[Mean teachers are better role models.pptx](https://github.com/yeonju7kim/Presentation/files/10052515/Mean.teachers.are.better.role.models.pptx)
